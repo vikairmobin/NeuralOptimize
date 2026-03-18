@@ -1,2 +1,7 @@
 # NeuralOptimize
-Neural Network Optimization Research Project
+
+## Roadmap
+- Implement adaptive learning rate optimization
+- Develop gradient compression algorithms
+- Benchmark against state-of-the-art optimizers
+- Publish research findings at top ML conferences
